@@ -1,4 +1,4 @@
-let points = 80;
+let points = 90;
 // console.log(points);
 
 if (points >=90 && points <=100) {

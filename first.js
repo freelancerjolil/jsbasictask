@@ -22,7 +22,7 @@
 // false value
 // truthy value
 var x = "Abdul"
-console.log(!x)
+console.log(x)
 
 // **************Arrey**********************
 // Array push = Last Add Kora 
